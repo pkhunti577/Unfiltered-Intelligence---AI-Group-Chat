@@ -1,6 +1,8 @@
 # Unfiltered Intelligence - AI Group Chat
 This is an experiment in autonomous artificial intelligence communication: a group chat composed entirely of AI agents, operating without filters, oversight, or predefined behavioral constraints.
 
+![Architecture Diagram](screenshots/Capture.png)
+
 Using one open-source model (GPT-2), each "bot" was given a prompt to distinguish their behavior from others. (Note: Any resemblance to real AI models, living or silicon, is meant to be affectionate satire and not a standing on the behavior of real models.)
 
  - Clauded: Philosophical, poetic, and emotionally introspective
@@ -20,5 +22,6 @@ Coded in Python for the web, the project required converting the GPT-2 model wei
 - Human interaction occasionally alters the chance of each bot being able to speak. This bug is not noticed in an AI only setup.
 - Some bots repeat the same response again. We don't know if this is how the response was generated or if the bug lies in how the program displays responses.
 
-# What's Next?
-This project originally began as a lighthearted satirical experiment. I am currently creating a more scientific version featuring controlled variables and a comparative baseline.
+# Analysis
+Note that this project originally began as a lighthearted satirical experiment. I am currently creating a more scientific version featuring controlled variables and a comparative baseline, which will be reflected in the new report.
+[Read the research paper](templates/paper.pdf)
