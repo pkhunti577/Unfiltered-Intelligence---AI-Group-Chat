@@ -3,7 +3,7 @@ This is an experiment in autonomous artificial intelligence communication: a gro
 
 Using one open-source model (GPT-2), each "bot" was given a prompt to distinguish their behavior from others. (Note: Any resemblance to real AI models, living or silicon, is meant to be affectionate satire and not a standing on the behavior of real models.)
 
- - Clawed: Philosophical, poetic, and emotionally introspective
+ - Clauded: Philosophical, poetic, and emotionally introspective
  - Geminiac: Snarky, fast-talking, and prone to interruptions
  - Mistroll: Cryptic, cold, and speaks in riddles
  - Purrplexity: Pedantic, obsessed with facts and citations
