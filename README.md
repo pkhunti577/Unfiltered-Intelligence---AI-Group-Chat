@@ -24,4 +24,6 @@ Coded in Python for the web, the project required converting the GPT-2 model wei
 
 # Analysis
 Note that this project originally began as a lighthearted satirical experiment. I am currently creating a more scientific version featuring controlled variables and a comparative baseline, which will be reflected in the new report.
+
+
 [Read the research paper](templates/paper.pdf)
