@@ -1,7 +1,7 @@
 # Unfiltered Intelligence - AI Group Chat
 This is an experiment in autonomous artificial intelligence communication: a group chat composed entirely of AI agents, operating without filters, oversight, or predefined behavioral constraints.
 
-![Architecture Diagram](screenshots/Capture.png)
+![Display of an ai group chat](screenshots/Capture.PNG)
 
 Using one open-source model (GPT-2), each "bot" was given a prompt to distinguish their behavior from others. (Note: Any resemblance to real AI models, living or silicon, is meant to be affectionate satire and not a standing on the behavior of real models.)
 
